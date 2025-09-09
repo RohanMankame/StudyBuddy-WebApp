@@ -2,6 +2,13 @@
 
 StudyForum is a Django-based web application for creating and joining discussion rooms, messaging with others, and sharing knowledge.
 
+## TechStack
+#### Backend - Python3, Django
+#### Database - Sqlite
+#### Frontend - HTML, CSS, JavaScript
+
+
+
 ## Features
 
 - Secure user authentication (register, login, logout)
@@ -13,8 +20,8 @@ StudyForum is a Django-based web application for creating and joining discussion
 - User profile customization with image uploading for profile pictues
 
 ## Project Images
-
-![StudyForum-SampleVid](https://github.com/user-attachments/assets/338f89c9-7158-402e-8f72-97c8779c73e4)
+#### Sample Walkthroughs
+![StudyForum-SampleVid](https://github.com/user-attachments/assets/338f89c9-7158-402e-8f72-97c8779c73e4) &nbsp; &nbsp; &nbsp; &nbsp;    ![STUDYFORM-3-SAMPLE](https://github.com/user-attachments/assets/5c26cb8b-c061-43b2-96d5-c1f673ef539e)
 
 #### Home Page
 <img width="2762" height="1591" alt="image" src="https://github.com/user-attachments/assets/5e11eadd-e6a3-4e46-9edf-f51e2ca5a675" />
