@@ -13,14 +13,14 @@ StudyForum is a Django-based web application for creating and joining discussion
 - User profile customization with image uploading for profile pictues
 
 ## Project Images
+
+![StudyForum-SampleVid](https://github.com/user-attachments/assets/338f89c9-7158-402e-8f72-97c8779c73e4)
+
 #### Home Page
 <img width="2762" height="1591" alt="image" src="https://github.com/user-attachments/assets/5e11eadd-e6a3-4e46-9edf-f51e2ca5a675" />
 
 #### Example Room
 <img width="1436" height="952" alt="image" src="https://github.com/user-attachments/assets/cbb595f4-e8d5-4aab-bde1-6bd82ec29f29" />
-
-
-
 
 
 ### Prerequisites
