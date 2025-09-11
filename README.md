@@ -71,8 +71,5 @@ StudyForum is a Django-based web application for creating and joining discussion
    # or given server link after server running
    ```
 
-## License
-
-MIT License.
 
 ---
