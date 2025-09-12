@@ -2,6 +2,8 @@
 
 StudyForum is a Django-based web application for creating and joining discussion rooms, messaging with others, and sharing knowledge.
 
+Deployed at: https://studyforum-webapp.onrender.com/
+
 ## TechStack
 #### Backend - Python3, Django
 #### Database - Sqlite
