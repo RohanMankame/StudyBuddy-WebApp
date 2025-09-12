@@ -142,5 +142,11 @@ MEDIA_ROOT = BASE_DIR / 'static/images'
 DEFAULT_AUTO_FIELD = 'django.db.models.BigAutoField'
 
 STATIC_URL = '/static/'
+
+################ WARNING : UNCOMMENT STATIC_ROOT and STATICFILES_STORAGE OUT IF YOU WANT TO RUN SERVER LOCALY ############################################
+################ THIS SECTION IS FOR THE DEPLOYED APP ############################################
+
 STATIC_ROOT = BASE_DIR / 'staticfiles'
 STATICFILES_STORAGE = 'whitenoise.storage.CompressedManifestStaticFilesStorage'
+
+################ UNCOMMENT STATIC_ROOT and STATICFILES_STORAGE ############################################
